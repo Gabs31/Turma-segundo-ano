@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:  0;
+}
 .cabecalho {
     background-color: #C9EDF2;
     color:#55ABB7;
@@ -31,3 +35,8 @@
 .escola-div-conteudo{
     width: 35%;
 }
+
+    .Escola-texto{
+        font-size: 25px ;
+        padding: 20px;
+    }
